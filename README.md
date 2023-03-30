@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M.Sualeh Siddiqui</h1>
 <h3 align="center">A student of Web and App development at Saylani school of business and Islamic leadership.</h3>
 
-<img width="400" alt="coding_animated_GIF" align="right" src="Coding_animated_GIF" />
+<img width="400" alt="coding_animated_GIF" align="right" src="![image](https://user-images.githubusercontent.com/120639739/228738796-4f410dae-c21c-472e-a1cd-ed2cdc0bc548.png)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sualehsiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="sualehsiddiqui" /> </p>
 
