@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Html, Css, JavaScript.**
+- 💬 Ask me about **Html, Css, JavaScript, Firebase.**
 
 - 📫 How to reach me **sualehmsiddiqui@gmail.com**
 
