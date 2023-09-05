@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M.Sualeh Siddiqui</h1>
-<h3 align="center">A student of Web and App development at Saylani school of business and Islamic leadership.</h3>
+<h3 align="center">A student of Web and App development at Saylani school of business and Islamic leadership. Have a lock at my Portfolio <a href="https://sualehsiddiqui.netlify.app/" target="blank">here<a /></h3>
 
 <img align="right" alt="coding_animated_GIF" width="300" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk" />
 
