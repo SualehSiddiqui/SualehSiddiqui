@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sualehsiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="sualehsiddiqui" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TailwindCSS**
 
-- 💬 Ask me about **Html, Css, JavaScript, Firebase.**
+- 💬 Ask me about **Html, Css, JavaScript, Firebase, MongoDb, NodeJs, ExpressJs, ReactJs.**
 
 - 📫 How to reach me **sualehmsiddiqui@gmail.com**
 
